@@ -6,7 +6,7 @@ public class Lab6_1 {
         int far;
         int cel;
 
-        temp = 25;
+        temp =24;
 
         far = temp * 9 / 5 + 32; //convert Celsius to Fahrenheit
         cel = (far - 32) * 5 / 9; // convert Fahrenheit to Celsius
